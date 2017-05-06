@@ -7,4 +7,4 @@ Was implemented for my papers:
 - https://www.researchgate.net/publication/224328305_A_test_framework_for_the_accuracy_of_line_detection_by_Hough_Transforms
 
 For my US patent:
-https://www.researchgate.net/publication/282328383_Image_processing_method_and_apparatus_for_detecting_lines_of_images_and_start_and_end_points_of_lines
+- https://www.researchgate.net/publication/282328383_Image_processing_method_and_apparatus_for_detecting_lines_of_images_and_start_and_end_points_of_lines
